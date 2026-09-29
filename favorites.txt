@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Favorite Filipino dish: Sinigang
+=======
+Favorite Filipino dish: Kare-Kare
+>>>>>>> branch-b
